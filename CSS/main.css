@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+}
+html,
+body {
+  height: 100%;
+  background-color: rebeccapurple;
+}
+div {
+  height: 100px;
+  width: 600px;
+  background-color: orange;
+}
+div p {
+  color: white;
+}
+/*# sourceMappingURL=main.css.map */

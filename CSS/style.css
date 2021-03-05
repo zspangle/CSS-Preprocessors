@@ -1,0 +1,79 @@
+* {
+  margin: 0;
+}
+html,
+body {
+  background-color: #f7ff00;
+}
+.nav {
+  margin: 0 auto;
+  padding: 0 auto;
+  list-style-type: none;
+  text-align: center;
+}
+.nav li {
+  display: inline-block;
+  font-size: 32px;
+}
+.nav a {
+  color: #0055ff;
+  padding: 0.5em 0.75em;
+  border-radius: 4px;
+  text-decoration: none;
+}
+.container {
+  margin: 20px auto;
+  display: grid;
+  grid-row: auto;
+  grid-column-gap: 10px;
+  grid-row-gap: 10px;
+}
+.box1 {
+  background-color: red;
+  height: 100px;
+  width: 100px;
+  padding: 20px;
+  border-radius: 8px;
+  border: 2px solid black;
+  color: #0055ff;
+  align-items: center;
+  justify-content: center;
+  font-size: 32px;
+}
+.box2 {
+  background-color: blue;
+  height: 200px;
+  width: 200px;
+  padding: 20px;
+  border-radius: 8px;
+  border: 2px solid black;
+  color: #0055ff;
+  align-items: center;
+  justify-content: center;
+  font-size: 32px;
+}
+.box3 {
+  background-color: green;
+  height: 250px;
+  width: 250px;
+  padding: 20px;
+  border-radius: 8px;
+  border: 2px solid black;
+  color: #0055ff;
+  align-items: center;
+  justify-content: center;
+  font-size: 32px;
+}
+.box4 {
+  background-color: purple;
+  height: 50px;
+  width: 50px;
+  padding: 20px;
+  border-radius: 8px;
+  border: 2px solid black;
+  color: #0055ff;
+  align-items: center;
+  justify-content: center;
+  font-size: 32px;
+}
+/*# sourceMappingURL=style.css.map */
